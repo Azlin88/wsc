@@ -1,0 +1,6 @@
+echo "# wsc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Azlin88/wsc.git
+git push -u origin master
